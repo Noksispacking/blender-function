@@ -23,3 +23,4 @@ blender(item, number of items){
         click, x,y ;position of the "next" button
     }
 }
+asd
